@@ -17,3 +17,4 @@ TODO
 ## Do you have any questions of your own?
 
 TODO
+1. no questions as of right now 
