@@ -18,3 +18,6 @@ TODO
 
 TODO
 1. no questions as of right now 
+
+**THIS IS MY YOUTUBE VIDEO LINK**
+https://youtu.be/Q46UDSkRS6k
